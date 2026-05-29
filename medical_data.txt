@@ -1,0 +1,74 @@
+DISEASE: Diabetes Type 2
+MEDICINES: Metformin, Glipizide, Sitagliptin, Empagliflozin
+SIDE_EFFECTS: Nausea, Diarrhea, Stomach upset, Hypoglycemia, Weight loss
+ALTERNATIVES: Lifestyle changes, Insulin therapy, Liraglutide, Canagliflozin
+
+DISEASE: Hypertension
+MEDICINES: Amlodipine, Lisinopril, Atenolol, Losartan, Hydrochlorothiazide
+SIDE_EFFECTS: Dizziness, Headache, Fatigue, Dry cough, Swollen ankles
+ALTERNATIVES: Valsartan, Ramipril, Nifedipine, Metoprolol
+
+DISEASE: Pneumonia
+MEDICINES: Amoxicillin, Azithromycin, Doxycycline, Levofloxacin
+SIDE_EFFECTS: Nausea, Diarrhea, Rash, Vomiting, Allergic reaction
+ALTERNATIVES: Clarithromycin, Ceftriaxone, Moxifloxacin
+
+DISEASE: Migraine
+MEDICINES: Sumatriptan, Rizatriptan, Propranolol, Topiramate, Ibuprofen
+SIDE_EFFECTS: Chest tightness, Dizziness, Fatigue, Tingling, Nausea
+ALTERNATIVES: Ergotamine, Amitriptyline, Valproate, Naproxen
+
+DISEASE: Depression
+MEDICINES: Sertraline, Fluoxetine, Escitalopram, Venlafaxine, Bupropion
+SIDE_EFFECTS: Insomnia, Nausea, Weight gain, Sexual dysfunction, Anxiety
+ALTERNATIVES: Mirtazapine, Duloxetine, Paroxetine, Therapy, Exercise
+
+DISEASE: Asthma
+MEDICINES: Salbutamol, Budesonide, Fluticasone, Montelukast, Theophylline
+SIDE_EFFECTS: Tremor, Headache, Throat irritation, Oral thrush, Palpitations
+ALTERNATIVES: Formoterol, Salmeterol, Tiotropium, Ipratropium
+
+DISEASE: Tuberculosis
+MEDICINES: Isoniazid, Rifampicin, Pyrazinamide, Ethambutol
+SIDE_EFFECTS: Liver toxicity, Nausea, Vision problems, Rash, Joint pain
+ALTERNATIVES: Streptomycin, Moxifloxacin, Bedaquiline, Linezolid
+
+DISEASE: Malaria
+MEDICINES: Chloroquine, Artemether, Lumefantrine, Quinine, Doxycycline
+SIDE_EFFECTS: Nausea, Vomiting, Headache, Blurred vision, Tinnitus
+ALTERNATIVES: Atovaquone, Proguanil, Mefloquine, Primaquine
+
+DISEASE: Typhoid
+MEDICINES: Ciprofloxacin, Ceftriaxone, Azithromycin, Chloramphenicol
+SIDE_EFFECTS: Nausea, Diarrhea, Headache, Rash, Dizziness
+ALTERNATIVES: Amoxicillin, Trimethoprim, Sulfamethoxazole
+
+DISEASE: Arthritis
+MEDICINES: Ibuprofen, Naproxen, Methotrexate, Hydroxychloroquine, Prednisone
+SIDE_EFFECTS: Stomach upset, Liver damage, Eye problems, Weight gain, Infections
+ALTERNATIVES: Sulfasalazine, Leflunomide, Etanercept, Adalimumab, Physical therapy
+
+DISEASE: Anemia
+MEDICINES: Ferrous sulfate, Ferrous gluconate, Folic acid, Vitamin B12, Erythropoietin
+SIDE_EFFECTS: Constipation, Nausea, Dark stools, Stomach pain, Diarrhea
+ALTERNATIVES: Iron sucrose, Iron dextran, Blood transfusion, Dietary iron
+
+DISEASE: Urinary Tract Infection
+MEDICINES: Nitrofurantoin, Trimethoprim, Ciprofloxacin, Amoxicillin, Cephalexin
+SIDE_EFFECTS: Nausea, Diarrhea, Headache, Rash, Yeast infection
+ALTERNATIVES: Fosfomycin, Sulfamethoxazole, Cranberry supplements
+
+DISEASE: Gastritis
+MEDICINES: Omeprazole, Pantoprazole, Ranitidine, Antacids, Clarithromycin
+SIDE_EFFECTS: Headache, Diarrhea, Nausea, Vitamin B12 deficiency, Constipation
+ALTERNATIVES: Esomeprazole, Lansoprazole, Sucralfate, Dietary changes
+
+DISEASE: Cholesterol
+MEDICINES: Atorvastatin, Rosuvastatin, Simvastatin, Ezetimibe, Fenofibrate
+SIDE_EFFECTS: Muscle pain, Liver damage, Digestive problems, Headache, Fatigue
+ALTERNATIVES: Pravastatin, Lovastatin, Omega-3, Niacin, Dietary changes
+
+DISEASE: Epilepsy
+MEDICINES: Phenytoin, Valproate, Carbamazepine, Levetiracetam, Lamotrigine
+SIDE_EFFECTS: Drowsiness, Dizziness, Nausea, Weight gain, Liver problems
+ALTERNATIVES: Topiramate, Oxcarbazepine, Gabapentin, Clonazepam
